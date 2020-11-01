@@ -1,0 +1,5 @@
+#z = input()
+#print(z)
+age = int(input("How old are you?\n"))
+name = input("Whats your name?\n")
+print(name + " is " + str(age))
